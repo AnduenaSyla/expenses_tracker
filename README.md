@@ -1,4 +1,4 @@
-# math_quiz
+# expenses_tracker
 ## 📌 Përshkrimi
 Një program i thjeshtë ku përdoruesi jep:
 të ardhurat mujore
