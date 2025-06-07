@@ -1,3 +1,10 @@
 # math_quiz
 ## 📌 Përshkrimi
-Ky është një projekt i thjeshtë i realizuar në gjuhën Python, ku përdoruesit i paraqiten tre pyetje të thjeshta matematikore (mbledhje, zbritje, shumëzim). Para fillimit të kuizit, përdoruesi jep disa të dhëna personale si emrin, moshën dhe qytetin. Në fund të lojës, shfaqet një përmbledhje e rezultatit dhe e të dhënave të përdoruesit.
+Një program i thjeshtë ku përdoruesi jep:
+të ardhurat mujore
+një listë shpenzimesh (ushqim, qira, transport, etj.)
+
+Programi llogarit:
+totalin e shpenzimeve
+balancën që mbetet
+jep një vlerësim: "Po kursen mirë!" ose "Duhet të kursesh më shumë."
