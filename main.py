@@ -68,7 +68,7 @@ def show_summary(user_data, total_expenses, balance):
     else:
         print("❗ Po shpenzon më shumë se të ardhurat. Konsidero të reduktosh shpenzimet.")
 
-    # Opsionale: kategoria me shpenzimin më të madh
+    # Kategoria me shpenzimin më të madh
     biggest_category = max(user_data['expenses'], key=user_data['expenses'].get)
     print(f"\n📌 Shpenzimi më i madh ishte për: {biggest_category} (€{user_data['expenses'][biggest_category]:.2f})")
 
